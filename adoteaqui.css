@@ -1,0 +1,311 @@
+body{
+    background-image: url(https://www.dicaspetz.com.br/wp-content/uploads/2020/06/lava-patas-de-cachorro-pet-1.jpg);
+    background-size: cover;
+}
+header{
+    display:flex;
+    background-color: olive;
+    flex-direction: row;
+    justify-content: space-evenly;
+    height: 150px;
+    font-family: monospace;
+}
+.logo{
+    color: yellow;
+    font-size: 30px;
+}
+.logo:hover{
+    font-size: 33px;
+    color: orange;
+}
+.nav1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    height: 40px;
+    width: 360px;
+    
+}
+
+.divnav{ 
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.home{
+    padding: 1px;
+    color: yellow;
+    font-size: 35px;
+    font-weight: bolder;
+}
+.sobre{
+    padding: 1px;
+    color: yellow;
+    font-size: 35px;
+    font-weight: bolder;
+}
+.contato{
+    padding: 1px;
+    color: yellow;
+    font-size: 35px;
+    font-weight: bolder;
+}
+.home:hover{
+    color: orange;
+    font-size: 37px;
+}
+.sobre:hover{
+    color: orange;
+    font-size: 37px;    
+}
+.contato:hover{
+    color: orange;
+    font-size: 37px;
+}
+.divnav2{
+    font-family: monospace;
+    font-size: 20px;
+    background-color: yellow;
+    padding: 3px; 
+}
+.nav2{
+    display: flex;
+    justify-content: space-evenly;    
+}
+.eq{
+    color: olive;
+    font-weight: bold;
+}
+.ep{
+    color: olive;
+    font-weight: bold;
+}
+.qav{
+    color: olive;
+    font-weight: bold;
+}
+.qad{
+    color: olive;
+    font-weight: bold;
+}
+.df{
+    color: olive;
+    font-weight: bold;
+}
+.frase{
+    background-color: olive;
+    font-family: monospace;
+    color: yellow;
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    font-size: 35px;
+}
+.figurasdog{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-top: 40px;
+    margin-bottom: 30px;    
+}
+.divfoto1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.ft1{
+    height: 235px;
+    width: 235px;
+    border-radius: 15px;
+}
+.lnk1{
+    color: yellow;
+    background-color: olive;
+    margin-top: 10px;
+    font-weight: bolder;
+}
+.divfoto2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.ft2{
+    height: 235px;
+    width: 235px;
+    border-radius: 15px;
+}
+.lnk2{
+    color: yellow;
+    background-color: olive;
+    margin-top: 10px;
+    font-weight: bolder;
+}
+.divfoto3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.ft3{
+    height: 235px;
+    width: 235px;
+    border-radius: 15px;
+}
+.lnk3{
+    color: yellow;
+    background-color: olive;
+    margin-top: 10px;
+    font-weight: bolder;
+}
+.divfoto4{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.ft4{
+    height: 235px;
+    width: 235px;
+    border-radius: 15px;
+}
+.lnk4{
+    color: yellow;
+    background-color: olive;
+    margin-top: 10px;
+    font-weight: bolder;
+}
+.vermais1{
+    display: flex;
+    justify-content: center;
+    color: olive;
+}
+.vmc{
+    color: yellow;
+    background-color: olive;
+    margin-top: 10px;
+    font-weight: bolder;
+    width: 350px;
+    height: 50px;
+}
+.figurascat{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-top: 40px;
+    margin-bottom: 30px;    
+}
+.divfoto5{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.ft5{
+    height: 235px;
+    width: 235px;
+    border-radius: 15px;
+}
+.lnk5{
+    color: yellow;
+    background-color: olive;
+    margin-top: 10px;
+    font-weight: bolder;
+}
+.divfoto6{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.ft6{
+    height: 235px;
+    width: 235px;
+    border-radius: 15px;
+}
+.lnk6{
+    color: yellow;
+    background-color: olive;
+    margin-top: 10px;
+    font-weight: bolder;
+}
+.divfoto7{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.ft7{
+    height: 235px;
+    width: 235px;
+    border-radius: 15px;
+}
+.lnk7{
+    color: yellow;
+    background-color: olive;
+    margin-top: 10px;
+    font-weight: bolder;
+}
+.divfoto8{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.ft8{
+    height: 235px;
+    width: 235px;
+    border-radius: 15px;
+}
+.lnk8{
+    color: yellow;
+    background-color: olive;
+    margin-top: 10px;
+    font-weight: bolder;
+}
+.vermais2{
+    display: flex;
+    justify-content: center;
+    color: olive;
+}
+.vmg{
+    color: yellow;
+    background-color: olive;
+    margin-top: 10px;
+    font-weight: bolder;
+    width: 350px;
+    height: 50px;
+}    
+.denuncie{
+    display: flex;
+    justify-content: center;
+    font-family: monospace;
+    font-weight: bold;
+    color: yellow;
+    font-size: 22px;
+}
+.lnk9{
+    color: purple;
+}
+#rodape{
+    display: flex;
+    color:white;
+    justify-content: center;
+    border-radius: 20px;
+}
+@media (max-width: 700px){
+    header{
+        flex-direction: column;
+    }
+
+    .logo{
+        display: none;
+    }
+    .nav1{
+        justify-content: center;
+        flex-direction: column;
+    }
+    .nav2{
+        justify-content: center;
+        flex-direction: column;
+    }
+    .denuncie{
+        justify-content: center;
+        flex-direction: column;
+    }
+}
